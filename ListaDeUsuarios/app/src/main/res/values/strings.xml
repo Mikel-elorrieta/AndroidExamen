@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ListaDeUsuarios</string>
+    <string name="elementuBerria">Elementu Berria</string>
+    <string name="gehitu">Gehitu</string>
+    <string name="idSartu">Id sartu</string>
+    <string name="izenaSartu">Izena sartu</string>
+    <string name="deskribapenaSartu">Deskribapena sartu</string>
+    <string name="gorde">Gorde</string>
+    <string name="itzuli">Itzuli</string>
+    <string name="alda">Aldatu</string>
+    <string name="ezabatu">Ezabatu</string>
+    <string name="iragazi">Iragazi</string>
+    <string name="garbitu">Garbitu</string>
+    <string name="Id_Hint">Id Sartu</string>
+    <string name="Izena_Hint">Izena Sartu</string>
+    <string name="ElementuaAlda">Elementua Aldatu</string>
+    <string-array name="array_idiomas">
+        <item>Castellano</item>
+        <item>Euskera</item>
+        <item>Ingles</item>
+        <item>Frances</item>
+        <item>Aleman</item>
+    </string-array>
+    <string name="userSartu">Usuario sartu</string>
+    <string name="passSartu">Pasahitza sartu</string>
+    <string name="activo">Activo</string>
+    <string name="editar">Editar</string>
+
+</resources>

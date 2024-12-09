@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">CartasMagic</string>
+    <string name="tipo_hint">Inserta el tipo</string>
+    <string name="nombre_hint">Inserta el nombre</string>
+    <string name="color_hint">Inserta el color</string>
+    <string name="rareza_hint">Inserta la rareza</string>
+    <string name="descripcion_hint">Inserta la descripción</string>
+    <string name="id_hint">Inserta el id</string>
+    <string name="tipo">Tipo</string>
+    <string name="nombre">Nombre</string>
+    <string name="color">Color</string>
+    <string name="rareza">Rareza</string>
+    <string name="descripcion">Descripción</string>
+    <string name="id">Id</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="editar">Editar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="buscar">Buscar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="carta_guardada">Carta guardada</string>
+    <string name="carta_eliminada">Carta eliminada</string>
+    <string name="carta_editada">Carta editada</string>
+    <string name="carta_no_encontrada">Carta no encontrada</string>
+    <string name="carta_no_guardada">Carta no guardada</string>
+    <string name="carta_no_eliminada">Carta no eliminada</string>
+    <string name="filtrar">Filtrar</string>
+    <string name="agregar">Agregar</string>
+    <string name="borrar">Borrar</string>
+    <array name="tipos">
+        <item>Artefacto</item>
+        <item>Criatura</item>
+        <item>Encantamiento</item>
+        <item>Instantáneo</item>
+        <item>Hechizo</item>
+        <item>Terreno</item>
+        <item>Planeswalker</item>
+        <item>Conjuro</item>
+    </array>
+    <array name="colores">
+        <item>Blanco</item>
+        <item>Azul</item>
+        <item>Rojo</item>
+        <item>Verde</item>
+        <item>Negro</item>
+        <item>Blanco - Azul</item>
+        <item>Blanco - Rojo</item>
+        <item>Blanco - Verde</item>
+        <item>Blanco - Negro</item>
+        <item>Azul - Rojo</item>
+        <item>Azul - Verde</item>
+        <item>Azul - Negro</item>
+        <item>Rojo - Verde</item>
+        <item>Rojo - Negro</item>
+        <item>Verde - Negro</item>
+        <item>Blanco - Azul - Rojo</item>
+        <item>Blanco - Azul - Verde</item>
+        <item>Blanco - Azul - Negro</item>
+        <item>Blanco - Rojo - Verde</item>
+        <item>Blanco - Rojo - Negro</item>
+        <item>Blanco - Verde - Negro</item>
+        <item>Azul - Rojo - Verde</item>
+        <item>Azul - Rojo - Negro</item>
+        <item>Azul - Verde - Negro</item>
+        <item>Rojo - Verde - Negro</item>
+        <item>Blanco - Azul - Rojo - Verde</item>
+        <item>Blanco - Azul - Rojo - Negro</item>
+        <item>Blanco - Azul - Verde - Negro</item>
+        <item>Blanco - Rojo - Verde - Negro</item>
+        <item>Azul - Rojo - Verde - Negro</item>
+        <item>Blanco - Azul - Rojo - Verde - Negro</item>
+    </array>
+    <array name="rareza">
+        <item>Común</item>
+        <item>Infrecuente</item>
+        <item>Rara</item>
+        <item>Rara Mítica</item>
+    </array>
+
+
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LoginRegistro</string>
+    <string name="Registro">Registro</string>
+    <string name="user_hint">Usuario</string>
+    <string name="pass_hint">Contraseña</string>
+    <string name="añade_usuario">Añade Usuario</string>
+    <string name="login">Login</string>
+    <string name="añade_contraseña">Añade Contraseña</string>
+    <string name="Cancelar">Cancelar</string>
+    <string name="Aceptar">Aceptar</string>
+    <string name="lista_usuarios">Lista de Usuarios</string>
+    <array name="Generos">
+        <item>Masculino</item>
+        <item>Femenino</item>
+        <item>Mobiliario</item>
+    </array>
+    <string name="genero_hint">Genero</string>
+    <string name="MayorDeEdad_hint">MayorDeEdad</string>
+</resources>
